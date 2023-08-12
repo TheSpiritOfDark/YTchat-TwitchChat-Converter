@@ -1,5 +1,5 @@
 # YTchat-TwitchChat-Converter
-A simple python script that reads a YT chat and sends the messages to a twitch stream
+A simple python script that reads a YT chat and sends the messages to a twitch stream, made by me (TheSpiritOfDark, WafflingTitan31, ect, etc)
 
 # how to get your API keys and put it in the script
 
